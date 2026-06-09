@@ -1,0 +1,69 @@
+# Google services
+@@clients2.google.com
+@@clients4.google.com
+@@reminders-pa.googleapis.com
+@@firestore.googleapis.com
+@@googleapis.l.google.com
+@@dl.google.com
+# YouTube
+@@s.youtube.com 
+@@video-stats.l.google.com
+@@www.googleapis.com 
+@@youtubei.googleapis.com
+@@oauthaccountmanager.googleapis.com
+# Windows 10 Update
+@@sls.update.microsoft.com.akadns.net
+@@fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+@@tlu.dl.delivery.mp.microsoft.com
+# Microsoft Office
+@@officeclient.microsoft.com
+# Online status test
+@@connectivitycheck.android.com
+@@android.clients.google.com
+@@clients3.google.com
+@@connectivitycheck.gstatic.com
+@@msftncsi.com
+@@www.msftncsi.com
+@@ipv6.msftncsi.com
+@@captive.apple.com
+@@gsp1.apple.com
+@@www.apple.com
+@@www.appleiphonecell.com
+# === Spotify Core (muss erlaubt sein) ===
+@@spclient.wg.spotify.com
+@@apresolve.spotify.com
+# === Canvas (Mini-Videos im Player) ===
+||canvaz.scdn.co^
+||canvaz-ak.scdn.co^
+||canvaz-fa.scdn.co^
+# === Musikvideos & Clips ===
+||video-ak.spotify.com^
+||video-fa.spotify.com^
+||video-gslb.spotify.com^
+||video-edge.spotify.com^
+||video-akpcw.spotifycdn.com^
+||video-akpcw-cdn-spotify-com.akamaized.net^
+||video-ak.cdn.spotify.com.splitter-eip.akadns.net^
+||eip-ntt.video-ak.cdn.spotify.com.akahost.net^
+||video-fa.scdn.co^
+||video-fa.cdn.spotify.com^
+||video-fa-b.cdn.spotify.com^
+# === Video-Podcasts (neu & alt) ===
+||video-cf.spotifycdn.com^
+||video-cf-ak.spotifycdn.com^
+||video-cf-fa.spotifycdn.com^
+||podcasts-video.scdn.co^
+||podcasts-video-ak.scdn.co^
+||podcasts-video-fa.scdn.co^
+||video-podcast.scdn.co^
+||video-podcast-ak.scdn.co^
+||video-podcast-fa.scdn.co^
+||podz.scdn.co^
+||podz-ak.scdn.co^
+||podz-fa.scdn.co^
+# === Canvas Backup-CDNs (optional) ===
+||canvas-cdn.spotify.com^
+||canvas-cdn-canary.spotify.com^
+# === Heads Video-Streaming (optional) ===
+||heads-fa.spotify.com^
+||heads4-fa.spotify.com^

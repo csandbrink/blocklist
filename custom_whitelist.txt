@@ -1,0 +1,32 @@
+# Whitelist fuer Unbound/OPNsense Blocklists
+# Generiert aus AdGuard @@-Eintraegen
+# Eine Domain pro Zeile, keine Praefixe
+
+clients2.google.com
+clients4.google.com
+reminders-pa.googleapis.com
+firestore.googleapis.com
+googleapis.l.google.com
+dl.google.com
+s.youtube.com
+video-stats.l.google.com
+www.googleapis.com
+youtubei.googleapis.com
+oauthaccountmanager.googleapis.com
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+officeclient.microsoft.com
+connectivitycheck.android.com
+android.clients.google.com
+clients3.google.com
+connectivitycheck.gstatic.com
+msftncsi.com
+www.msftncsi.com
+ipv6.msftncsi.com
+captive.apple.com
+gsp1.apple.com
+www.apple.com
+www.appleiphonecell.com
+spclient.wg.spotify.com
+apresolve.spotify.com
